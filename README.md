@@ -18,17 +18,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - Revenue spikes show seasonality, with clear holiday-period peaks.  
 - Quantity and Unit Price positively correlate with total revenue.
 
-## Project Structure
-ECommerce_Consumer_Behavior_Analysis/
-├── data/
-│ └── data.csv
-├── notebooks/
-│ └── ECommerce_Analysis.ipynb
-├── images/
-├── requirements.txt
-└── README.md
-
-
 ## Notebook
 Open the analysis notebook at `notebooks/ECommerce_Analysis.ipynb` to see complete code, visualizations, and the step-by-step analysis.
 
