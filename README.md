@@ -135,6 +135,26 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
+## Key Insights (Business Understanding)
+
+This project was not only about plotting graphs but about understanding customer behaviour from transactional logs.
+
+Monthly revenue analysis showed strong seasonal demand patterns. This means businesses can prepare inventory and marketing campaigns in advance instead of reacting after sales drop or spike.
+
+Top product analysis revealed that a small number of products generated most of the revenue. This follows the Pareto Principle (80/20 rule) and suggests bundle recommendations and focused advertising can increase profit without increasing traffic.
+
+Country-wise revenue showed that revenue is concentrated in a few geographic markets. This helps companies optimise logistics cost and run targeted ads instead of global campaigns.
+
+RFM segmentation identified different types of customers:
+High monetary & high frequency → loyal customers
+Low recency → churn risk customers
+
+Using predictive modelling (Logistic Regression), the project estimated probability of repeat purchase, enabling businesses to identify customers who need retention offers.
+
+Overall, the project demonstrates how raw billing logs can be transformed into actionable business strategy.
+
+---
+
 ## 👩‍💻 Author
 
 Bhavya Jain
